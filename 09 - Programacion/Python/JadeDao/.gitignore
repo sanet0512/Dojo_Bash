@@ -1,0 +1,11 @@
+
+# Entorno
+venv/
+.env
+# Python artefactos
+__pycache__/
+*.py[cod]
+# Coverage / test
+.htmlcov/
+.coverage
+
