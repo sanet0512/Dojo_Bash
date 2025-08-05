@@ -73,5 +73,10 @@ Anota en Obsidian:
 
 ---
 
+<<<<<<< HEAD
 🥷 \_Hoy has aprendido que destruir también requiere sabiduría. Un ninja no borra por impulso: evalúa, confirma, y actúa con precisión.
 Cuando estés listo, pasamos al arte de la duplicación (`cp`) y la teleportación (`mv`).
+=======
+🥷 _Hoy has aprendido que destruir también requiere sabiduría. Un ninja no borra por impulso: evalúa, confirma, y actúa con precisión.
+Cuando estés listo, pasamos al arte de la duplicación (`cp`) y la teleportación (`mv`). ¿Deseas continuar o practicar un poco más?_
+>>>>>>> 48c17e21a33cf2e535e24bdeb73dc2f1bea3b37a

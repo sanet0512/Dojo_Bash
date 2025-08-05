@@ -1,4 +1,5 @@
 # 🧠 Plantilla diaria
+<<<<<<< HEAD
 
 # 📅 DIARIO TÉCNICO - ${DateDMY~}
 
@@ -98,3 +99,5 @@ _Ej: Git - Aprendí \`git rebase -i\`_
 - Linux: [ ] h
 - Programación: [ ] h
 - Otros: [ ] h
+=======
+>>>>>>> 48c17e21a33cf2e535e24bdeb73dc2f1bea3b37a

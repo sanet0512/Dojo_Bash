@@ -15,6 +15,7 @@ Es el arte de desaparecer de un sitio y aparecer en otro... o cambiar de identid
 
 ## 🧰 **Ejemplos útiles**
 
+<<<<<<< HEAD
 ---
 
 | **Comando / Opción**              | **¿Qué hace?**                                                                         |
@@ -29,6 +30,19 @@ Es el arte de desaparecer de un sitio y aparecer en otro... o cambiar de identid
 | `mv -v`                           | **Muestra** los movimientos realizados (modo detallado / verbose).                     |
 
 ## t⚠️ **Errores comunes**
+=======
+| Comando                           | ¿Qué hace?                       |
+| --------------------------------- | -------------------------------- |
+| `mv archivo.txt carpeta/`         | Mueve el archivo a la carpeta    |
+| `mv archivo.txt nuevo_nombre.txt` | Renombra el archivo              |
+| `mv carpeta1/ carpeta2/`          | Mueve la carpeta entera          |
+| `mv -i archivo.txt destino/`      | Pide confirmación si sobrescribe |
+| `mv -v archivo.txt destino/`      | Muestra lo que hace (verbose)    |
+
+---
+
+## ⚠️ **Errores comunes**
+>>>>>>> 48c17e21a33cf2e535e24bdeb73dc2f1bea3b37a
 
 - Renombrar sin querer: si escribes `mv archivo.txt otro.txt`, no se mueve: **se renombra**.
 - Sobrescribir sin aviso: si el archivo ya existe, lo reemplaza sin preguntar (usa `-i` para prevenirlo).

@@ -15,6 +15,7 @@
   | `ls -lh`            | Tamaños humanos: en KB, MB en vez de solo bytes                          |
   | `ls -lt`            | Ordena por **fecha de modificación**, de más reciente a más antiguo      |
 
+<<<<<<< HEAD
 | Opción            | Qué hace                                          |
 | ----------------- | ------------------------------------------------- |
 | `ls -lhS`         | Ordena por tamaño (human-readable)                |
@@ -25,6 +26,8 @@
 
 |
 
+=======
+>>>>>>> 48c17e21a33cf2e535e24bdeb73dc2f1bea3b37a
 ---
 
 ## 🧠 **Preguntas activas para ti**

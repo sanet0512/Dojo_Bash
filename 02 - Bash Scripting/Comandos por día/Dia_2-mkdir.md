@@ -23,12 +23,15 @@ Vamos uno por uno, en el orden correcto para que entiendas la **creación**, **c
 | `mkdir -p padre/hijo/nieto` | Crea carpetas anidadas, incluso si no existen aún |
 | `mkdir -v nueva`            | Muestra mensaje al crear (verbose)                |
 
+<<<<<<< HEAD
 | Opción                            | Qué hace                                 |
 | --------------------------------- | ---------------------------------------- |
 | `mkdir -m 700 carpeta`            | Crea con permisos específicos            |
 | `mkdir -p carpeta/{uno,dos,tres}` | Crea múltiples subdirectorios con llaves |
 | `umask`                           | Controla los permisos base de `mkdir`    |
 
+=======
+>>>>>>> 48c17e21a33cf2e535e24bdeb73dc2f1bea3b37a
 ---
 
 ## ⚠️ **Errores comunes**
@@ -71,5 +74,9 @@ Anota en Obsidian:
 ---
 
 🥷 \_Cuando domines `mkdir`, te enseñaré su sombra: `rmdir`, y su enemigo implacable: `rm`.
+<<<<<<< HEAD
+=======
+¿Listo para ejecutar tu kata y responder las preguntas activas?
+>>>>>>> 48c17e21a33cf2e535e24bdeb73dc2f1bea3b37a
 
 \_

@@ -15,6 +15,7 @@ Sirve para hacer respaldos, duplicar configuraciones, mover información entre r
 
 ## 🧰 **Ejemplos útiles**
 
+<<<<<<< HEAD
 | Comando                         | ¿Qué hace?                                         |
 | ------------------------------- | -------------------------------------------------- |
 | `cp archivo.txt copia.txt`      | Copia un archivo                                   |
@@ -31,6 +32,15 @@ Sirve para hacer respaldos, duplicar configuraciones, mover información entre r
 | `-v`                            | Muestra lo que copia                               |
 
 |
+=======
+| Comando                         | ¿Qué hace?                              |
+| ------------------------------- | --------------------------------------- |
+| `cp archivo.txt copia.txt`      | Copia un archivo                        |
+| `cp archivo.txt /ruta/destino/` | Copia el archivo al destino             |
+| `cp -i archivo.txt copia.txt`   | Pide confirmación si vas a sobrescribir |
+| `cp -r carpeta/ respaldo/`      | Copia recursivamente una carpeta        |
+| `cp -v archivo.txt copia.txt`   | Muestra lo que está copiando (verbose)  |
+>>>>>>> 48c17e21a33cf2e535e24bdeb73dc2f1bea3b37a
 
 ---
 
@@ -72,3 +82,8 @@ En Obsidian, anota:
 
 🥷 _Duplicar es más que copiar: es asegurar información, prepararse para el desastre, moverse con astucia.
 Cuando lo domines, pasaremos a `mv`: el arte del desplazamiento y renombramiento._
+<<<<<<< HEAD
+=======
+
+¿Deseas practicar este kata ahora o avanzar de inmediato?
+>>>>>>> 48c17e21a33cf2e535e24bdeb73dc2f1bea3b37a
