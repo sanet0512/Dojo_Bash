@@ -1,9 +1,5 @@
-# 🕶️ Ignorar archivos ocultos (cualquier archivo que empiece con un punto)
-.*
-
-# 👣 EXCEPTO: .gitignore y .gitattributes (los necesitas en el repositorio)
-!.gitignore
-!.gitattributes
+# 🕶️ Ignorar archivos de configuración local
+.obsidian/
 
 # 🗓 Ignorar contenido del diario personal
 01 - Diario Ninja/Entradas por fecha/
@@ -11,4 +7,3 @@
 # 🔍 También podrías ignorar backups de editores o archivos temporales:
 *~
 *.swp
-
