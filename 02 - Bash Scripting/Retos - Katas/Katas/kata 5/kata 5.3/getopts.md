@@ -4,7 +4,7 @@
 
 Escribir un script que muestre el **Top N** de procesos, ordenados por **CPU** o **Memoria**, opcionalmente filtrados por **usuario**.
 
-### 📜 Requisitos
+## 📜 Requisitos
 
 - Opciones con `getopts`:
   - `-u <usuario>` → filtra por usuario (por defecto: usuario actual).
@@ -21,7 +21,7 @@ Escribir un script que muestre el **Top N** de procesos, ordenados por **CPU** o
   - `2` usuario inexistente
   - `3` sin resultados
 
-### 💻 Ejemplos de uso
+## 💻 Ejemplos de uso
 
 ```bash
 # Top 5 global por CPU (por defecto)
@@ -34,7 +34,7 @@ Escribir un script que muestre el **Top N** de procesos, ordenados por **CPU** o
 ./kata13.sh -h
 ```
 
-### 🧩 Pistas (sin darte la solución)
+## 🧩 Pistas (sin darte la solución)
 
 - Base de datos de procesos:
 
