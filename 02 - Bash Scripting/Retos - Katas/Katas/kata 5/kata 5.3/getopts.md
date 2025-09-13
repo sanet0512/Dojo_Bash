@@ -113,5 +113,3 @@ Escribir un script que muestre el **Top N** de procesos, ordenados por **CPU** o
 
 1. Dedica **5–10 min** a investigar `ps`, `sort -k`, y practica tu **pseudocódigo** (escríbelo aquí).
 2. Implementa tu script y lo revisamos (no daré solución completa hasta 2 intentos).
-
-¿Listo para tu pseudocódigo, sanet?
